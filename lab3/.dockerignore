@@ -1,0 +1,18 @@
+# Системи контролю версій
+.git/
+.gitignore
+.gitattributes
+
+# Документація
+*.md
+docs/
+LICENSE
+
+# Налаштування редакторів
+.vscode/
+.idea/
+
+# Службові файли Docker і лабораторної
+.dockerignore
+Dockerfile
+lab.yaml
